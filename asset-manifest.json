@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.534f91fc.chunk.css",
-    "main.js": "/static/js/main.750005bd.chunk.js",
-    "main.js.map": "/static/js/main.750005bd.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.0a718788.js",
-    "runtime~main.js.map": "/static/js/runtime~main.0a718788.js.map",
-    "static/js/2.273e21f6.chunk.js": "/static/js/2.273e21f6.chunk.js",
-    "static/js/2.273e21f6.chunk.js.map": "/static/js/2.273e21f6.chunk.js.map",
-    "static/js/3.82bfcd13.chunk.js": "/static/js/3.82bfcd13.chunk.js",
-    "static/js/3.82bfcd13.chunk.js.map": "/static/js/3.82bfcd13.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.71996df41f0d98582b3a8873b0785a23.js": "/precache-manifest.71996df41f0d98582b3a8873b0785a23.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.534f91fc.chunk.css.map": "/static/css/main.534f91fc.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.06e73328.svg"
+    "main.css": "/use-bind/static/css/main.534f91fc.chunk.css",
+    "main.js": "/use-bind/static/js/main.750005bd.chunk.js",
+    "main.js.map": "/use-bind/static/js/main.750005bd.chunk.js.map",
+    "runtime~main.js": "/use-bind/static/js/runtime~main.1ec9f28b.js",
+    "runtime~main.js.map": "/use-bind/static/js/runtime~main.1ec9f28b.js.map",
+    "static/js/2.273e21f6.chunk.js": "/use-bind/static/js/2.273e21f6.chunk.js",
+    "static/js/2.273e21f6.chunk.js.map": "/use-bind/static/js/2.273e21f6.chunk.js.map",
+    "static/js/3.82bfcd13.chunk.js": "/use-bind/static/js/3.82bfcd13.chunk.js",
+    "static/js/3.82bfcd13.chunk.js.map": "/use-bind/static/js/3.82bfcd13.chunk.js.map",
+    "index.html": "/use-bind/index.html",
+    "precache-manifest.bbffdc664c3af81b5630c5680cee8ca9.js": "/use-bind/precache-manifest.bbffdc664c3af81b5630c5680cee8ca9.js",
+    "service-worker.js": "/use-bind/service-worker.js",
+    "static/css/main.534f91fc.chunk.css.map": "/use-bind/static/css/main.534f91fc.chunk.css.map",
+    "static/media/logo.svg": "/use-bind/static/media/logo.06e73328.svg"
   }
 }
