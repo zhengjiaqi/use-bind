@@ -6,7 +6,7 @@
  * @lastEditor: zhengjiaqibj
  * @description: 文件描述;
  */
-import React, {useCallback} from 'react';
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import ParentComponent from './ParentComponentExample';

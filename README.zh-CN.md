@@ -13,6 +13,7 @@ npm install --save use-bind
 ```
 
 ## 使用
+[在线代码示例](https://codesandbox.io/s/use-bind-vmqm9?file=/src/ParentComponentExample.tsx)
 
 ```tsx
 import * as React from 'react';
@@ -40,8 +41,11 @@ const useBindExample = () => {
 ## 示例
 
 ### 在组件间使用响应式双向绑定
+[在线代码示例](https://codesandbox.io/s/use-bind-vmqm9?file=/src/ParentComponentExample.tsx)
 
-[ Source code - ParentComponentExample.tsx](https://github.com/zhengjiaqi/use-bind/blob/master/example/src/ParentComponentExample.tsx)
+[在线示例](https://zhengjiaqi.github.io/use-bind/)
+
+[Source code - ParentComponentExample.tsx](https://github.com/zhengjiaqi/use-bind/blob/master/example/src/ParentComponentExample.tsx)
 
 ```tsx
 // ParentComponentExample.tsx
@@ -62,7 +66,7 @@ const ParentComponent: React.FC<IParentComponent> = (props: IParentComponent) =>
 }
 ```
 
-[ Source code - ChildComponentExample.tsx](https://github.com/zhengjiaqi/use-bind/blob/master/example/src/ChildComponentExample.tsx)
+[Source code - ChildComponentExample.tsx](https://github.com/zhengjiaqi/use-bind/blob/master/example/src/ChildComponentExample.tsx)
 
 ```tsx
 // ChildComponentExample.tsx

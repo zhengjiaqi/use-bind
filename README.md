@@ -13,6 +13,7 @@ npm install --save use-bind
 ```
 
 ## Usage
+[Live Code](https://codesandbox.io/s/use-bind-vmqm9?file=/src/ParentComponentExample.tsx)
 
 ```tsx
 import * as React from 'react';
@@ -40,8 +41,11 @@ const useBindExample = () => {
 ## Examples
 
 ### Using it between components
+[Live Demo Code](https://codesandbox.io/s/use-bind-vmqm9?file=/src/ParentComponentExample.tsx)
 
-[ Source code - ParentComponentExample.tsx](https://github.com/zhengjiaqi/use-bind/blob/master/example/src/ParentComponentExample.tsx)
+[Live Demo Example](https://zhengjiaqi.github.io/use-bind/)
+
+[Source code - ParentComponentExample.tsx](https://github.com/zhengjiaqi/use-bind/blob/master/example/src/ParentComponentExample.tsx)
 
 ```tsx
 // ParentComponentExample.tsx
@@ -62,7 +66,7 @@ const ParentComponent: React.FC<IParentComponent> = (props: IParentComponent) =>
 }
 ```
 
-[ Source code - ChildComponentExample.tsx](https://github.com/zhengjiaqi/use-bind/blob/master/example/src/ChildComponentExample.tsx)
+[Source code - ChildComponentExample.tsx](https://github.com/zhengjiaqi/use-bind/blob/master/example/src/ChildComponentExample.tsx)
 
 ```tsx
 // ChildComponentExample.tsx

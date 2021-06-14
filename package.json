@@ -1,6 +1,6 @@
 {
   "name": "use-bind",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Responsive two-way binding between components.",
   "author": "zhengjiaqi",
   "license": "MIT",
@@ -46,5 +46,20 @@
     "rollup-plugin-peer-deps-external": "^2.2.0",
     "tslib": "^2.0.1",
     "typescript": "^3.2.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/zhengjiaqi/use-bind/issues"
+  },
+  "homepage": "https://github.com/zhengjiaqi/use-bind#readme",
+  "directories": {
+    "example": "example"
+  },
+  "keywords": [
+    "two-way",
+    "binding",
+    "React",
+    "hook",
+    "bind"
+  ]
+
 }
